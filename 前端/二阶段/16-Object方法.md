@@ -878,7 +878,3 @@ input.oninput = function() {
 </script>
 ```
 
-## 明日面试题
-
-1. 深浅拷贝
-2. 原型和原型链
